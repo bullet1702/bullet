@@ -1,0 +1,8 @@
+requests
+colorama
+phonenumbers
+dnspython
+pillow
+holehe
+rich
+tqdm
